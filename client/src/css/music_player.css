@@ -1,0 +1,21 @@
+.player-container {
+    max-width: 1200px;
+    margin: 40px auto;
+}
+
+.music-player>img {
+    width: 100%;
+}
+
+.player-song-details {
+    margin: 0;
+    padding: 10px;
+    background-color: rgba(71, 71, 71, 0.466);
+}
+
+.music-player>audio {
+    margin: 0;
+    width: 100%;
+    border: 1px solid #fff;
+    background-color: #f1f3f4;
+}
